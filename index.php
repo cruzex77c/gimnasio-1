@@ -14,6 +14,7 @@
                 <table class="responsive-table highlight">
         <thead>
           <tr>
+              <th>Id</th>
               <th>Name</th>
               <th>Item Name</th>
               <th>Item Price</th>
